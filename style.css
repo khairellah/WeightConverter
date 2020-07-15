@@ -2,3 +2,6 @@ body{margin-top: 70px;
 background: #333;
 color: #fff;
 }  
+
+/* adding a new comment : hello now i cloned the project from the git to the local machine using bash.clone
+and the project is loaded but i just wanna make sure the this comment will apper  in 'git status' command as a new modification and after that i will commit an pull and see the result */
